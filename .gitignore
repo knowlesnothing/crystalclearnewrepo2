@@ -27,6 +27,7 @@ proguard/
 *.log
 
 #bogus comment added
+#2nd bogus comment added
 # Android Studio Navigation editor temp files
 .navigation/
 
